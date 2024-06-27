@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-27T19:25:17 IST" name="Default suite" finished-at="2024-06-27T19:26:05 IST" duration-ms="47358">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T19:25:17 IST" name="Default test" finished-at="2024-06-27T19:26:05 IST" duration-ms="47358">
+      <class name="com.task.AutomationTestCase14">
+        <test-method is-config="true" signature="oprnBrowser()[pri:0, instance:com.task.AutomationTestCase14@411f53a0]" started-at="2024-06-27T19:25:17 IST" name="oprnBrowser" finished-at="2024-06-27T19:25:23 IST" duration-ms="5484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnBrowser -->
+        <test-method signature="automateTest()[pri:0, instance:com.task.AutomationTestCase14@411f53a0]" started-at="2024-06-27T19:25:23 IST" name="automateTest" finished-at="2024-06-27T19:26:05 IST" duration-ms="41789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automateTest -->
+      </class> <!-- com.task.AutomationTestCase14 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
